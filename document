@@ -1,0 +1,7 @@
+ i opened the folder 
+ opened the terminal and pasted (npm init -y) this added the package .json to my folder
+ then i pasted this ( npm install react react-dom) this added package lock.json
+ then this(npm install --save-dev parcel) to add all the necessary addons
+ then i created the index.html file in the main folder
+as we are creating the things manually we have to manually create the git ignore src folder and app .js files and all if i would have created using jsx then it would have created by default
+ 
